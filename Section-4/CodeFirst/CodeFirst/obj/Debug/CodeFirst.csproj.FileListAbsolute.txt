@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
+C:\Users\Alex\Desktop\Entity Course\Section-4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
